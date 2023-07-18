@@ -46,5 +46,5 @@ Agradeço ao Campinho Digital por proporcionar a oportunidade de aprender e dese
 Se tiver alguma dúvida ou sugestão, entre em contato comigo pelo e-mail [kreisdemenezes@gmail.com](mailto:kreisdemenezes@gmail.com).
 
 ## **QR_Code do Site**
-![Asian Series](asian-series/src/assets/AsianSeries.png)
+![Asian Series](./src/assets/AsianSeries.png)
 
