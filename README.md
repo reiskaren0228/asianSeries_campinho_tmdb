@@ -48,3 +48,6 @@ Se tiver alguma dúvida ou sugestão, entre em contato comigo pelo e-mail [kreis
 ## **QR_Code do Site**
 ![Asian Series](./src/assets/AsianSeries.png)
 
+## Visualizar o Projeto
+
+Você pode visualizar o projeto [Asian Series](<https://reiskaren0228.github.io/asianSeries_campinho_tmdb/>).
