@@ -1,5 +1,3 @@
-# asianSeries_campinho_tmdb
-
 # Projeto de Séries Asiáticas
 
 Este é o projeto de um site sobre séries asiáticas desenvolvido como parte do curso Campinho Digital sobre Json/React/TMDB.
