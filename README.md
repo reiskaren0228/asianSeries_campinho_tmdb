@@ -50,4 +50,4 @@ Se tiver alguma dúvida ou sugestão, entre em contato comigo pelo e-mail [kreis
 
 ## Visualizar o Projeto
 
-Você pode visualizar o projeto [Asian Series](<https://reiskaren0228.github.io/asianSeries_campinho_tmdb/>).
+Você também pode visualizar o projeto clicando aqui --> [Asian Series](<https://reiskaren0228.github.io/asianSeries_campinho_tmdb/>).
