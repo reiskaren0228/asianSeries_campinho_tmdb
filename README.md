@@ -9,7 +9,8 @@ O site exibe informações sobre cada série, como título, descrição, imagem 
 
 - HTML5;
 - CSS3;
-- JavaScript.
+- JavaScript;
+- React.
 ## Funcionalidades
 
 - Exibição de uma lista de séries asiáticas;
